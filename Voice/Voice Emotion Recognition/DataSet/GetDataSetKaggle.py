@@ -7,7 +7,7 @@ os.environ['KAGGLE_KEY'] = '' # Your kaggle key, inside the settings
 
 # Define dataset details
 dataset_name = r'ejlok1/toronto-emotional-speech-set-tess' # get Dataset link, replace with your dataset
-output_dir = r'D:\Thesis work\Emotional Voice'  # Replace with your desired output directory
+output_dir = r''  # You don't need to change the output
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
