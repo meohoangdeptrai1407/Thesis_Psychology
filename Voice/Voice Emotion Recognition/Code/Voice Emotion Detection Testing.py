@@ -30,7 +30,7 @@ def extract_mfcc(filename, num_mfcc=40):
 
 # Perform inference on new audio samples
 new_audio_paths = ["y2mate.com - Oh my God Inhuman Reactions Sound effect_320kbps.mp3",
-                   "y2mate.com - Yahoo sound effect_320kbps.mp3",
+                   "y2mate.com - Yahoo sound effect_320kbps (1).mp3",
                    "output.mp3",
                    "y2mate.com - HAHAHA GAGO SOUND EFFECTS_320kbps.mp3"]  # Replace with the path to your new audio sample
 
