@@ -12,7 +12,7 @@ no_of_classes = 7
 epochs = 36
 
 # Define data generators
-folder_path = "D:\\Thesis work\\Emotion Image\\images\\images" # Change dir pls
+folder_path = "../DataSet" # Change dir into "../DataSet"
 
 datagen_train = ImageDataGenerator()
 datagen_val = ImageDataGenerator()
