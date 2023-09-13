@@ -24,7 +24,7 @@ EPOCH = 500
 
 warnings.filterwarnings('ignore')
 
-DIR = r"D:\Thesis work\Emotional Voice"  # Use raw string literal (r"") to avoid escape characters
+DIR = r"../DataSet"  # Use raw string literal (r"") to avoid escape characters
 
 paths = []
 labels = []
