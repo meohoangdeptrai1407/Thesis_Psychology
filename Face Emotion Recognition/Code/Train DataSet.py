@@ -117,6 +117,6 @@ plt.legend(loc='lower right')
 plt.show()
 
 # Save the trained model
-model.save("emotion_model.h5")
+model.save("new_emotion_model.h5")
 
 print("Training Successful")
